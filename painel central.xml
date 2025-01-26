@@ -1,0 +1,19 @@
+<channels>
+	<!-- opicional -->    
+	<channel>
+        <name>[COLOR lime]Filmes[/COLOR]</name>
+        <thumbnail>https://</thumbnail>
+        <fanart>https://</fanart>
+		<info></info>
+		<externallink>https://enviroment</externallink>
+    </channel>
+	
+	<channel>
+        <name>[COLOR lime]series[/COLOR]</name>
+        <thumbnail>https://</thumbnail>
+        <fanart>https://</fanart>
+		<info></info>
+		<externallink>https://enviroment</externallink>
+    </channel>
+
+</channels>	
