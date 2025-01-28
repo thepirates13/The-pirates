@@ -1,6 +1,14 @@
 <channels>
 	<!-- opicional -->
 	<channel>
+        <name>[COLOR lime]Classicos[/COLOR]</name>
+        <thumbnail>https://</thumbnail>
+        <fanart>https://</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/thepirates13/The-pirates/refs/heads/main/filmes%20Categorias/classicos.xml</externallink>
+    </channel>
+	
+	<channel>
         <name>[COLOR lime]Lançamento 2025[/COLOR]</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
