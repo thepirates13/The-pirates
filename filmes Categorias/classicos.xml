@@ -1,1 +1,63 @@
-classicos
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
+
+
+<item>
+<title>Clássico - O Contador (2016)</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://image.tmdb.org/t/p/original/qttnL1Kt1EDCOiLBOdqbl82fwYa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dcXTxU59M8MgCMIhAbdvDvi3gzu.jpg</fanart>
+<info>Desde criança, Christian Wolff (Ben Affleck) sofre com ruídos altos e problemas de sensibilidade, devido ao autismo. Apesar da oferta de ir para uma clínica voltada para crianças especiais, seu pai insiste que ele permaneça morando em casa, de forma a se habituar com o mundo que o rodeia. Ao crescer, Christian se torna um contador extremamente dedicado, graças à facilidade que tem com números, mas antissocial. A partir de um escritório de contabilidade, instalado em uma pequena cidade, ele passa a trabalhar para algumas das mais perigosas organizações criminosas do mundo. Ao ser contratado para vistoriar os livros contábeis da Living Robotics, criada e gerenciada por Lamar Blackburn (John Lithgow), Wolff logo descobre uma fraude de dezenas de milhões de dólares, o que coloca em risco sua vida e da colega de trabalho Dana Cummings (Anna Kendrick).</info>
+</item> 
+
+<item>
+<title>Clássico - A Rocha (1996)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e71c5d477f06f0ccfddc2b52334cbfd3008441e</link>
+<thumbnail>https://image.tmdb.org/t/p/original/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg</fanart>
+<info>Um general americano roubou armas químicas, fez reféns em Alcatraz e ameaça pulverizar São Francisco. Com o tempo a contar, um especialista em armas químicas e o único homem a ter escapado da prisão vão ter de entrar e desarmar os mísseis.</info>
+</item> 
+
+<item>
+<title>Clássico - O Especialista (1994)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b1f7dbac3b1b6605dbd41c32f855a34ce57cbb6</link>
+<thumbnail>https://image.tmdb.org/t/p/original/cZiruAWPqKzJQRhU9LQ9k5iGLbB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fvBshQMwOnYZdUXySGMdT6LiqsI.jpg</fanart>
+<info>Uma mulher convence um especialista em bombas com quem está envolvida a destruir a máfia que matou a família dela.</info>
+</item> 
+
+<item>
+<title>Clássico - Lolita - (1997)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd936b335dc1e7b0cab6146344bafdd6fb9a317e</link>
+<thumbnail>https://image.tmdb.org/t/p/original/6F4bV1DsCHjYCXRwIA6NZY7dcnD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/b9diKSmofRcgjbUxDrSPms82yAN.jpg</fanart>
+<info></info>
+</item> 
+
+<item>
+<title>Clássico - Os Reis da Rua (2008)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e7c452a4190ca175a0c57187a359cf43af956c5</link>
+<thumbnail>https://image.tmdb.org/t/p/original/fEmNVeb7Am2YE3FEH4tD9dcxSdH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xta1M2IIBxLgbghoksYUWqZuKW9.jpg</fanart>
+<info></info>
+</item> 
+
+<item>
+<title>Clássico - Chamas da Vingança (2004)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f27d029e59531634ea272ddb924be94ed390b9db</link>
+<thumbnail>https://image.tmdb.org/t/p/original/dvEaP2L1xCAeDqW8jBCBG4VvvvJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yjeAlMEGhZ6tqLhXoB8r8f9QTWp.jpg</fanart>
+<info>O cansado ex-agente da CIA John Creasy aceita relutantemente um emprego como guarda-costas de uma menina de 10 anos na Cidade do México. Eles entram em conflito no início, mas eventualmente se unem, e quando ela é sequestrada, ele é consumido pela fúria e não vai parar até salvar sua vida.</info>
+</item> 
+
+<item>
+<title>Clássico - Tróia – Versão Estendida (2004)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20cf0306bafa1996b923f3e97bba6229bda1a411</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tlr95MnyDj4gAcaT73uJH3muMZL.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ZPcC5hJh21QiW0jmhMQhZeSoGu.jpg</fanart>
+<info></info>
+</item> 
+
+
+</items>
