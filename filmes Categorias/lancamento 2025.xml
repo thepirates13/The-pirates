@@ -13,6 +13,16 @@
 </item> 
 
 <item>
+<title>teste - (2025)[COLOR red] +16 [/COLOR]</title>
+<link>$nome=[COLOR orange]Filme - teste (2025)[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=JQlDHAe-_zk$nome=[COLOR green]Trailer - Filme -  (2025)[/COLOR]</link>
+<thumbnail></thumbnail>
+<genre>Crime, Ação, Drama, Fantasia</genre>
+<fanart></fanart>
+<info></info>
+</item>
+ 
+<item>
 <title>A Garota da Agulha - Legendado  - (2025)</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OJUND2PVLRVR2HXEKISJJ5W4PGRIE3OK</link>
 <thumbnail>https://image.tmdb.org/t/p/original/l4BmTYCyURbP3eG4BlOXpFbH90d.jpg</thumbnail>
