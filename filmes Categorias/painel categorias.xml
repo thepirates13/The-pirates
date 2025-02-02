@@ -50,4 +50,12 @@
 		<externallink>https://enviroment</externallink>
     </channel>
 
+	<channel>
+        <name>[COLOR lime]Desenhos[/COLOR]</name>
+        <thumbnail>https://</thumbnail>
+        <fanart>https://</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/thepirates13/The-pirates/refs/heads/main/filmes%20Categorias/desenhos.xmlt</externallink>
+    </channel
+	
 </channels>	
