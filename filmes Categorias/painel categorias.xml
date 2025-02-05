@@ -33,6 +33,14 @@
 		<info></info>
 		<externallink>https://raw.githubusercontent.com/thepirates13/The-pirates/refs/heads/main/filmes%20Categorias/filmes2023.xml</externallink>
     </channel>
+
+		<channel>
+        <name>[COLOR lime]Filmes Lista01[/COLOR]</name>
+        <thumbnail>https://</thumbnail>
+        <fanart>https://</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/thepirates13/The-pirates/refs/heads/main/filmes%20Categorias/filmeslista01.xml</externallink>
+    </channel>
 	
 	<channel>
         <name>[COLOR lime]Acão[/COLOR]</name>
