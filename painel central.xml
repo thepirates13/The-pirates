@@ -1,7 +1,7 @@
 <channels>
 	<!-- opicional -->    
 	<channel>
-        <name>[COLOR lime]Filmes[/COLOR]</name>
+        <name>[COLOR blue]Filmes[/COLOR]</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info></info>
@@ -9,11 +9,20 @@
     </channel>
 	
 	<channel>
-        <name>[COLOR lime]series[/COLOR]</name>
+        <name>[COLOR green]Séries[/COLOR]</name>
         <thumbnail>https://</thumbnail>
         <fanart>https://</fanart>
 		<info></info>
 		<externallink>https://raw.githubusercontent.com/thepirates13/The-pirates/refs/heads/main/series.xml</externallink>
     </channel>
+
+	<channel>
+        <name>[COLOR yellow]Tv Rede[/COLOR]</name>
+        <thumbnail>https://</thumbnail>
+        <fanart>https://</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/thepirates13/The-pirates/refs/heads/main/tvred.xml</externallink>
+    </channel>
+	
 
 </channels>	
