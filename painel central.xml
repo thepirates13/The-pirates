@@ -23,6 +23,13 @@
 		<info></info>
 		<externallink>https://raw.githubusercontent.com/thepirates13/The-pirates/refs/heads/main/tvred.xml</externallink>
     </channel>
-	
 
+	<channel>
+        <name>[COLOR yellow]Tv Adultos+18[/COLOR]</name>
+        <thumbnail>https://</thumbnail>
+        <fanart>https://</fanart>
+		<info></info>
+		<externallink>https://raw.githubusercontent.com/thepirates13/The-pirates/refs/heads/main/adultos%2B18.xml</externallink>
+    </channel>
+	
 </channels>	
